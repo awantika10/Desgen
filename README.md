@@ -2,9 +2,6 @@
 We provide innovative and latest solutions for our customers. We try to bring revolution in the field of design through latest technologies.
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
 [![Discord](https://user-images.githubusercontent.com/71998138/105862232-911b5780-6015-11eb-8eeb-53b03fcffa74.png)](https://discord.com/invite/nhRVW5GXFV)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
@@ -27,7 +24,7 @@ We provide innovative and latest solutions for our customers. We try to bring re
 About
 GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. 
 > **NOTE:** All the contributions to be counted under GSSOC should be made to the `gssoc` branch. 
-
+> Please commit the designs and make a PR for each design in SVG format.
 <div >
 <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="gssoc" height="200" />
   </div>
