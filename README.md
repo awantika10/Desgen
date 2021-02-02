@@ -1,5 +1,7 @@
 # Desgen
-We provide innovative and latest solutions for our customers. We try to bring revolution in the field of design through latest technologies.
+We are trying to develop innovative designs through lastest UI/UX technologies. Most of the open source organisation and platforms have Web development, Android Development, ML etc, but ever wonder any organization or project which is completely dedicated to solving real world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
+
+Here we provide a platform to learn and build innovative solutions for such problem. We love to brainstorm and come up with different techniques and approaches to design problems which we face in our day-to-day basis.
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
 [![Discord](https://user-images.githubusercontent.com/71998138/105862232-911b5780-6015-11eb-8eeb-53b03fcffa74.png)](https://discord.com/invite/nhRVW5GXFV)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
