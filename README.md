@@ -26,7 +26,7 @@ Here we provide a platform to learn and build innovative solutions for such prob
 About
 GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. 
 > **NOTE:** All the contributions to be counted under GSSOC should be made to the `gssoc` branch. 
-> Please commit the designs and make a PR for each design in SVG format.
+> Please commit the designs and make a PR for each design.
 <div >
 <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="gssoc" height="200" />
   </div>
@@ -37,11 +37,13 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
 | [@weebo-ary](https://github.com/weebo-ary)            | Design + Documentation     |
-
+| [@awantika10](https://github.com/awantika10/)         | Design                     |
 
 ## Quick Start
 
 - Fork and Clone the repo using
 ```
 git clone https://github.com/awantika10/Desgen/.git
+cd Desgen
 
+Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.md`
