@@ -46,4 +46,4 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 git clone https://github.com/awantika10/Desgen/.git
 cd Desgen
 
-Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.md`
+Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.html`
