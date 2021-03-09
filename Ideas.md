@@ -17,16 +17,3 @@
 - A contact page so that user can take help from professionals.
 - You can record the plant's growth with the application
  
-## idea-3
-
-### Description
-A Habit tracker app that you can use to track your habits and analyze them, make new habits, 
-and to quit bad habits.
-
-
-### Features
-- You can add your current habits to analyze them.
-- You can add new habits which you want to build up (meditation, yoga etc.).
-- This app can be used to quit a bad habit. (smoking, drinking alcohol etc.).
-- You can earn Rewards when you take up a good habit or quit a bad habit.
-- You can share your progress/success using social media share feature.
