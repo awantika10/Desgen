@@ -21,7 +21,7 @@ Here we provide a platform to learn and build innovative solutions for such prob
 
 ## Open Source Contests
  
-- ### GirlScript Summer of Code 2021
+- ### GirlScript Summer of Code 2021 
 
 About
 GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. 
@@ -31,7 +31,7 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="gssoc" height="200" />
   </div>
 
-# Mentors
+# Mentors 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/awantika10/Desgen/) 
 | GitHub Usernames                                      | Domain                     |
@@ -41,21 +41,23 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 | [@SHITIZ-AGGARWAL](https://github.com/SHITIZ-AGGARWAL)| Design + Website           |
 
 ## Quick Start
-
-- Fork and Clone the repo using
-```
+     - Fork and Clone the repo using
 git clone https://github.com/awantika10/Desgen.git
 cd Desgen
 
 Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.html`
+    
 
-### Contributing Guidelines 
-  * Feel free to open an issue to report a bug or request a new feature.
-  * Before starting to work on an issue, comment on that issue that you want to work on this and then only start to code.
+
+
+## Contributing guidelines  
+
+  * Feel free to open an issue to report a bug or request a new feature after checking whether a similar issue already exists.
+  * Before starting to work on an issue, comment on the issue that you want to work on and then start to code.
   * Create a new branch with a related name of the motive i.e. bug/refactor/feature and commit your changes in that branch only.  
   * Send a pull request anytime :)
 
-  ## 🌟 Contributors 
+## 🌟 Contributors 
 
 Thanks to these wonderful people ✨✨:
 
