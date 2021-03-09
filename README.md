@@ -48,3 +48,23 @@ git clone https://github.com/awantika10/Desgen.git
 cd Desgen
 
 Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.html`
+
+### Contributing Guidelines 
+  * Feel free to open an issue to report a bug or request a new feature.
+  * Before starting to work on an issue, comment on that issue that you want to work on this and then only start to code.
+  * Create a new branch with a related name of the motive i.e. bug/refactor/feature and commit your changes in that branch only.  
+  * Send a pull request anytime :)
+
+  ## 🌟 Contributors 
+
+Thanks to these wonderful people ✨✨:
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/awantika10/Desgen/graphs/contributors">
+  				<img src="https://contrib.rocks/image?repo=awantika10/Desgen" />
+			</a>
+		</td>
+	</tr>
+</table>
