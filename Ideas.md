@@ -8,12 +8,7 @@
 
 ### Description 
 
- A plant care mobile app concept that you can use to set up a schedule of your plant care activities
+Coming Soon........
  
 ### Features
-- You can scan the plant and it will tell it's information (species, requirements etc.).
-- You can set up tasks for the proper management of plant.
-- It can contain general information about how to take care of a plant.
-- A contact page so that user can take help from professionals.
-- You can record the plant's growth with the application
- 
+- Coming Soon.........
