@@ -7,11 +7,19 @@
 
 ## Name
 
-Add your name.
+Gaurav Chadha
 
 ### Description 
 
-Add the description about the idea and add the features for the idea or how to implement the idea.
- 
+Idea:- 
+A Medicine check app that focuses on remembering your medicine schedule and alerting people in special ways according to their age group.
+
 ### Features
-- Add your features of your Idea
+
+1.alerts people in special ways according to their age group using different methods such as reminder, email,automated calls.
+2.maintains the list of medicines and reports of the users. 
+3.Give the suggestions abut the best doctors near them.
+4 It is works accordingly for different age groups.  
+
+### Design
+https://www.figma.com/file/F4DecTqh8rDmUJQgntTlfQ/Medicine-Check-app-userflow?node-id=0%3A1
