@@ -5,13 +5,13 @@
 
 ## idea-1
 
-###Name
+## Name
 
-<!-- Your Name -->
+Add your name.
 
 ### Description 
 
-<!-- Add the description about the idea and add the features for the idea or how to implement the idea  --> 
+Add the description about the idea and add the features for the idea or how to implement the idea.
  
 ### Features
-- <!-- Add your features of your Idea -->
+- Add your features of your Idea
