@@ -3,7 +3,7 @@
 This documentation contains a set of guidelines to help you during the contribution process.
 
 We are happy to welcome all the contributions from anyone willing to improving this project. Thank you for helping out and remember, **no contribution is too small.** 
-- Join the disord channel for regular updates
+- Join the discord channel for regular updates
 - Each participant/contributor will be assigned **2 issues (max)** at a time to work.
 - Participants are expected to follow project guidelines and coding style.
 - Participants/contributors have to give an update about their work in every **3 days** while completing issues. If not then the issue will be assigned to other.
@@ -30,20 +30,35 @@ We are happy to welcome all the contributions from anyone willing to improving t
 
 - For any queries or discussions, please drop a message in our **discord server**
 
-# Working
+# Submissions
+`(Use "Fixes #Issue_Number" in a pull request as mentioned in the PR template and please fill the pr details while creating a pull request )`
+
 ### Idea submission
-For idea you have to add the idea in ideas.md 
+
+For idea submission  {[issue](https://github.com/awantika10/Desgen/issues/8)} 
+Add the idea in the ideas.md . You have to add a proper description about the idea and features for the idea(like how we can implement the idea). If you have any design/mockup/workflow for the idea you can also add them . The ideas should be unique or innovative. Please read the issue properly and then make a pr.
+
 ### Design submission
-For designs you have to add a folder in Designs folder (name of that folder should be the idea of the design(please check in the Designs folder so that your idea is not same) .
-In that folder you have add a photo of the design in  `.png or .jpg` format.
-with that you have to either make a markdown file or html file (any one will work)
-In that file add the content according to the template given in Contribution folder( both html format and md format are provided )
+
+For design submission : 
+First make a new folder in Designs folder and add a html file in it . The name of the folder and html file should be same as the idea name on which the design is made(try to keep it precise)
+
+**(the html file should follow the template - [TEMPLATE](https://github.com/awantika10/Desgen/blob/gssoc/Designs/DesignTemplate_IdeaName.html))**
+
+Along with the html file add a photo of the design (.png or .jpg format)
+
+```
+Files : Designs/your_design_idea/your_design_idea.html
+        Designs/your_design_idea/your_design_idea.png or Designs/your_design_idea/your_design_idea.jpg
+        
+```
+
 ### Code submission
 All the information would be given in the issue 
 ### Documentation submission
 All the information would be given in the issue 
   
-# Submitting Contributions
+# How to start
 Below you will find the process and workflow used to review and merge your changes.  
 
 ## Step 0 : Find an issue  🔍
