@@ -3,13 +3,10 @@ We are trying to develop innovative designs through lastest UI/UX technologies. 
 
 Here we provide a platform to learn and build innovative solutions for such problem. We love to brainstorm and come up with different techniques and approaches to design problems which we face in our day-to-day basis.
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
-[![Discord](https://user-images.githubusercontent.com/71998138/105862232-911b5780-6015-11eb-8eeb-53b03fcffa74.png)](https://discord.com/invite/nhRVW5GXFV)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
-
-
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nhRVW5GXFV)&nbsp;
 
 > **You can view the demo [here](https://dribbble.com/Desgen).**
 
@@ -40,22 +37,10 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 | [@awantika10](https://github.com/awantika10/)         | Design                     |
 | [@SHITIZ-AGGARWAL](https://github.com/SHITIZ-AGGARWAL)| Design + Website           |
 
-## Quick Start
-     - Fork and Clone the repo using
-git clone https://github.com/awantika10/Desgen.git
-cd Desgen
-
-Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.html`
-    
-
-
 
 ## Contributing guidelines  
 
-  * Feel free to open an issue to report a bug or request a new feature after checking whether a similar issue already exists.
-  * Before starting to work on an issue, comment on the issue that you want to work on and then start to code.
-  * Create a new branch with a related name of the motive i.e. bug/refactor/feature and commit your changes in that branch only.  
-  * Send a pull request anytime :)
+  * Go through [contributing.md](https://github.com/awantika10/Desgen/blob/gssoc/Contribution/CONTRIBUTING.md) file thoroughly
 
 ## 🌟 Contributors 
 
