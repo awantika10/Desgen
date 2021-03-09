@@ -7,11 +7,20 @@
 
 ## Name
 
-Add your name.
+Vikas Singh
 
 ### Description 
 
-Add the description about the idea and add the features for the idea or how to implement the idea.
+A Habit tracker app that you can use to track your habits and analyze them, make new habits, 
+and to quit bad habits.
  
 ### Features
-- Add your features of your Idea
+- You can add your current habits to analyze them.
+- You can add new habits which you want to build up (meditation, yoga etc.).
+- This app can be used to quit a bad habit. (smoking, drinking alcohol etc.).
+- You can earn Rewards when you take up a good habit or quit a bad habit.
+- You can share your progress/success using social media share feature.
+
+
+
+
