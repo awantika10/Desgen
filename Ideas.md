@@ -78,3 +78,24 @@ This application will help in planning their daily activities like
 5. also give suggestions about the best doctors near you
 
 
+## idea-4
+
+## Name
+
+Akash Chetia
+
+### Description 
+
+An app to clear traffic for emergency response vehicles-
+emergency vehicles such as ambulances, police cars, fire engines, etc. stuck in a traffic jam and delayed in reaching their destination can lead to loss of property and valuable lives. Whether it's a fire, medical emergency or crime, every second matters for those who need to respond to it, those precious moments are squandered.
+Through this application instead having drivers scramble out of the way of an emergency response vehicle when they hear sirens, 
+this application will alert the nearby vehicles on the way beforehand.
+ 
+### Features
+- Map visualisation with colour zone(To specify the presence of any emeregency response center nearby).
+- On any emergency update the alert will be updated for the nearby zones of that particular center.
+- The alert will be pushed as a notification to the nearby vehicles using the application.
+- Alternate route suggestion for clearing the way.
+- Based on the monthly emergency cases, the application will analyse and predict for better traffic clearance of area beforehand.
+- Bug reporting feature.
+
