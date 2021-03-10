@@ -58,5 +58,23 @@ This application will help in planning their daily activities like
 
 
 
+## idea-3
+
+## Name
+
+Gaurav Chadha
+
+### Description 
+
+Medicine check application.
+A Medicine check app that focuses on remembering your medicine schedule and alerting people in special ways according to their age group.
+ 
+### Features
+This application will help in planning their daily activities like
+1. Login/Signup Page 
+2. kepps details of your medicine.
+3. maintains your history.
+4. works accordingly to age group.
+5. also give suggestions about the best doctors near you
 
 
