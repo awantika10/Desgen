@@ -36,6 +36,26 @@ This app will allow everyone of us to be safe or alert anywhere we are.In this a
 4. Will help your location to get shared till police and Family only
 5. Just single click alert
 
+## idea-2
+
+## Name
+
+Sejal Vasan
+
+### Description 
+
+An application for the elderly - 
+Everyone needs additional care and attention as they age, and elderly people are gradually becoming an increasingly large category of app users. An idea for ​​an application that will make their lives easier by planning their daily activities like reminding them about medications and utility bills, or simplifying the ordering and delivery of food products for their individual diet.
+ 
+### Features
+This application will help in planning their daily activities like
+- reminding them about medications
+- helping them in reminding and paying their utility bills.
+- simplifying the ordering and delivery of food products for their individual diet.
+- 24/7 helpline service.
+- daily reminders to go for a walk or exercise a little to help them stay fit.
+- an alert system for medical emergencies. 
+
 
 
 
