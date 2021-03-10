@@ -57,6 +57,3 @@ This application will help in planning their daily activities like
 - an alert system for medical emergencies. 
 
 
-
-
-
