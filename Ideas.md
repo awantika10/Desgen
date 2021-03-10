@@ -99,3 +99,24 @@ this application will alert the nearby vehicles on the way beforehand.
 - Based on the monthly emergency cases, the application will analyse and predict for better traffic clearance of area beforehand.
 - Bug reporting feature.
 
+
+## idea-5
+
+## Name
+
+Arnab Bhakta
+
+### Description 
+
+An app for investment in cryptocurrency-
+We find many apps in the play store for this. Some of them are Indian app also. But there some features are not
+available. We find these extra features in the foreign app, but they charge some amount for using those apps.
+ 
+### Features
+- Set Price Alert for any cryptocurrency.
+- We can set a limit for buying and selling any cryptocurrency. At first, the user sets a value for buying that cryptocurrency, when that price will come, automatically purchase will happen. This is also applicable for
+selling.
+- A user can send any cryptocurrency to other user using this app.
+- News section is also an important feature of this app, where users can see the news related to cryptocurrency and share it also in social media.
+- Bug reporting feature.
+
