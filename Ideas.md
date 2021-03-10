@@ -56,7 +56,27 @@ This application will help in planning their daily activities like
 - daily reminders to go for a walk or exercise a little to help them stay fit.
 - an alert system for medical emergencies. 
 
+## idea-3
 
+## Name
+
+Abhijna Yaji
+
+### Description 
+
+This is an idea for an application named "Find your Roomie!". Finding the most suited roomate in a new city can be daunting, but no need to worry when you have "Find your Roomie!" app. This app will help finding the most suited roomate to 
+make your stay more comfortable and enjoyable.This can be done by users sharing their hobbies, interests, their lifestyles, 
+location of stay and the closest match to all these traits will help deciding the apt roomie.
+ 
+### Features
+1. Login/Sign up page.
+2. Add basic bio which would include:
+   i) Hobbies
+   ii) Interests and habits
+   iii) Lifestyle - brief needed to find a suitable roomate
+3. Interested location of stay.
+4. Direct chat feature to other users who are looking for a roomate.
+5. Map to show different stay locations available and current interested users for that location.
 
 
 
