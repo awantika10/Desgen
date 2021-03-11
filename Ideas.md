@@ -188,3 +188,21 @@ How many times have you found yourself lost in the long aisles of big bazaar try
  - For each product, it will display the cost and stock too.
  - If a product is unavailable, the app will also suggest alternatives.
 
+
+## Idea-10
+
+### Name
+
+Aanya Trehan
+
+### Description 
+
+An app called 'Startup Solutions' which aims to create a collaborative interface for startups
+
+### Features
+ - login as individual/company
+ - create your profile
+ - pitch your startup to investors to get financing opportunities
+ - profile/company search engine
+ - guidance cell to assign mentors to emerging startups
+ - Collaboration feature to work together with other startups and freelancers
