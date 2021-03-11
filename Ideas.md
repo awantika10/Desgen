@@ -170,3 +170,21 @@ The name of the app would be Drop App. It will function as an statistics applica
 - The app would focus on making the usage of water optimal and stopping people from wasting it.
 - When the user gets the proper water statistics they'll themselves try to limit the usage and save the water.
 
+
+## idea-9
+
+## Name
+
+Tanisha Belkar
+
+### Description 
+
+How many times have you found yourself lost in the long aisles of big bazaar trying to find that one shampoo? Well, this app saves you that time! It will guide you from where you're standing to the place where you can find your desired product.
+
+### Features
+ - Users can create a shopping list, add or remove items from it. 
+ - The app will create the shortest possible trip such that all these items can be bought.
+ - It will also tell the user about the estimated time and cost of the shopping spree
+ - For each product, it will display the cost and stock too.
+ - If a product is unavailable, the app will also suggest alternatives.
+
