@@ -206,3 +206,28 @@ An app called 'Startup Solutions' which aims to create a collaborative interface
  - profile/company search engine
  - guidance cell to assign mentors to emerging startups
  - Collaboration feature to work together with other startups and freelancers
+
+
+## idea-11
+
+### Name
+
+Subrat Yeeshu
+
+### Description .
+
+This is an Idea for Application Named "EasyJobs". If anyone wants a homemaker or construction worker for home or small cap projects or any other kind of work. This app will generate a specific ad with requirements needed and if an employee wants to work here can ping the employeer through the app. Also this app can be used to keep track on their employees. This will ease finding a suitable worker for home in a fast and efficient way. This app will also ensure safety of the user and timely payment of the employee.
+
+### Features
+
+ - Login/Signup Page - For employee and employeer
+ - Verification of employee through the app
+ - Prompt for Location access to both employaee and employeer
+ - Employee management and monitoring dashboard
+ - Rating and feedback for work
+ - Customer suppport tab
+    
+    
+    
+    
+    
