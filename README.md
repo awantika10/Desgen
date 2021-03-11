@@ -8,9 +8,6 @@ Here we provide a platform to learn and build innovative solutions for such prob
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nhRVW5GXFV)&nbsp;
 
-
-
-
 > **You can view the demo [here](https://dribbble.com/Desgen).**
 
 ![Desgngit](https://user-images.githubusercontent.com/71998138/105863985-777b0f80-6017-11eb-9068-6f5c205ef550.PNG)
@@ -21,7 +18,7 @@ Here we provide a platform to learn and build innovative solutions for such prob
 
 ## Open Source Contests
  
-- ### GirlScript Summer of Code 2021
+- ### GirlScript Summer of Code 2021 
 
 About
 GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. 
@@ -31,7 +28,7 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="gssoc" height="200" />
   </div>
 
-# Mentors
+# Mentors 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/awantika10/Desgen/) 
 | GitHub Usernames                                      | Domain                     |
@@ -39,12 +36,22 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 | [@weebo-ary](https://github.com/weebo-ary)            | Design + Documentation     |
 | [@awantika10](https://github.com/awantika10/)         | Design                     |
 | [@SHITIZ-AGGARWAL](https://github.com/SHITIZ-AGGARWAL)| Design + Website           |
+| [@Shaurya Bhandari](https://github.com/ShauryaBhandari)| Website                    |
 
-## Quick Start
+## Contributing guidelines  
 
-- Fork and Clone the repo using
-```
-git clone https://github.com/awantika10/Desgen.git
-cd Desgen
+  * Go through [contributing.md](https://github.com/awantika10/Desgen/blob/gssoc/Contribution/CONTRIBUTING.md) file thoroughly
 
-Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.html`
+## 🌟 Contributors 
+
+Thanks to these wonderful people ✨✨:
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/awantika10/Desgen/graphs/contributors">
+  				<img src="https://contrib.rocks/image?repo=awantika10/Desgen" />
+			</a>
+		</td>
+	</tr>
+</table>
