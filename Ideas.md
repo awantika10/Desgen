@@ -142,3 +142,25 @@ Add the description about the idea and add the features for the idea or how to i
 - practice questions all diffrent cp topics.
 
 
+## idea-7
+
+## Name
+
+Aashi Shah
+
+### Description 
+
+BookBuds - An app that provides a platform for people from all over the world to form/ join safe, virtual book clubs and connect with readers who have similar taste. 
+
+### Features
+ - Usual signup and login of a user.
+ - Users can set up their own book club, specifying genres, location, age as parameters for finding 
+other readers with similar tastes. Users can also join some of the already available clubs based on the same parameters.
+ - Each book club has a common library of books that they can purchase and read, depending on what the club decides.
+ - Each book club has an admin(usually the user who starts the club) who can reject a user's request to join their club. Other actions include conducting meetings, banning or kicking out and reporting an inappropriate user.
+ - Users can also upload their own books (if they have a pdf/e-book version on their local storage)
+ - While the club library is synced, each reader can read the book at their own pace by making a virtual copy of it in their own library.
+ - Each book club has a group chat in the app which can be used to discuss their thoughts about the book, or just interact with their club members in general.
+ - The app may additionally provide an option for the book club to have weekly/monthly/annual meetings via zoom as well.
+
+
