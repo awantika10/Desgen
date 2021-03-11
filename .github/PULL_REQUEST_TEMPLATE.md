@@ -6,7 +6,7 @@
 
 ## Related Issue
 
-closes #[issue_number] <!--mention the issue this PR is related to eg: Fixes #3 -->
+Fixes #[issue_number] <!--mention the issue this PR is related to eg: Fixes #3 -->
 
 ## Type of Change:
 
