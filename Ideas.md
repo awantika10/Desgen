@@ -120,3 +120,25 @@ selling.
 - News section is also an important feature of this app, where users can see the news related to cryptocurrency and share it also in social media.
 - Bug reporting feature.
 
+
+## idea-6
+
+## Name
+
+## A.S.L.Manasa
+
+### Description 
+A website that notifies all the competitive programming competitions going on and upcoming.
+We don't find an application where we get all the information about competitive coding at the same time. This will help aspirants to be updated in one place.
+
+Add the description about the idea and add the features for the idea or how to implement the idea.
+ 
+### Features
+- Login Page
+- Signup page
+- selection of websites to be shown.
+- reminder to Gmail.
+- Blogs about how to move ahead with cp.
+- practice questions all diffrent cp topics.
+
+
