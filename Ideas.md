@@ -125,7 +125,7 @@ selling.
 
 ## Name
 
-## A.S.L.Manasa
+A.S.L.Manasa
 
 ### Description 
 A website that notifies all the competitive programming competitions going on and upcoming.
