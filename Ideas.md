@@ -2,21 +2,6 @@
 
 <!-- innovative ideas which solve our day to day problems or major problems of society. We will try to solve these problem with designing -->
 <!-- If you have made any mockup,design or workflow ,you can add them with the idea  in .png format and the design link (if available)-->
-## idea-1
-
-## Name
-
-Add your name.
-
-### Description 
-
-Add the description about the idea and add the features for the idea or how to implement the idea.
- 
-### Features
-- Add your features of your Idea
-
-
-
 
 ## idea-1
 
@@ -163,4 +148,25 @@ other readers with similar tastes. Users can also join some of the already avail
  - Each book club has a group chat in the app which can be used to discuss their thoughts about the book, or just interact with their club members in general.
  - The app may additionally provide an option for the book club to have weekly/monthly/annual meetings via zoom as well.
 
+
+## idea-8
+
+## Name
+
+Vishal Patil
+
+### Description 
+
+The name of the app would be Drop App. It will function as an statistics application giving all information about the water resources available in ones locality.
+ 
+### Features
+- The app would tell the user regarding the water availability in ones locality and water bodies in units of gallons as well as how much days it'll last.
+- It'll inform them about their daily, monthly and yearly water usage as well as labelling them as Overusage, underusage or optimal usage.
+- Those with overusage will get a warning notification every month.
+- The app would also focus on water conservation and saving techniques. 
+- It'll also give notifications regarding water shortage.
+- The user will also get the statistics of water being provided by the local MNC. 
+- The user can mail grievances to the local MNC directly from the app.
+- The app would focus on making the usage of water optimal and stopping people from wasting it.
+- When the user gets the proper water statistics they'll themselves try to limit the usage and save the water.
 
