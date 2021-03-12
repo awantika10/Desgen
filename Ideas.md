@@ -1,4 +1,4 @@
-# Ideas for Desgen
+﻿# Ideas for Desgen
 
 <!-- innovative ideas which solve our day to day problems or major problems of society. We will try to solve these problem with designing -->
 <!-- If you have made any mockup,design or workflow ,you can add them with the idea  in .png format and the design link (if available)-->
@@ -290,6 +290,30 @@ have the option for money contribution but things which mostly go wasted , basic
  - Option to Post about any available resource and chat feature for people to communicate
  - Notification Alert whenever any requiremnet or resource is needed ,so that people who can help can be notified and come forward.
  - Collaboration feature  for reaching out to more people who want to Raise funds and Sponsor for the drives.
+ 
+
+## Idea-15
+
+### Name
+
+Yash Jaiswal
+
+### Description 
+
+This is an idea for application "Drill". Physical activity or exercise can improve your health and reduce the risk of developing several diseases. 
+Physical activity and exercise can have immediate and long-term health benefits. Most importantly, regular activity can improve your quality of life.
+This application can help you to stay fit by taking your body measurement and suggesting different types of exercises and diet plans, calculating your daily 
+walk time and calories you burned.
+
+
+### Features
+
+ - Login/Signup Page - For all the users
+ - Workout recommendation
+ - Calories and steps count
+ - Activity recommendation
+ - Notification Alert for workout and drinking water to stay hidrated
+ - BMI tracking
  
 
 
