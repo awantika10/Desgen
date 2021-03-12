@@ -280,8 +280,7 @@ This is an idea for application "Share if You Care".Most of the times it is not 
 but the lack of right planning and medium to make it reach to the needy people .This application can help connect people who can join
  hands to organise collection drives for  old clothes,blankets ,books ,extra food etc.This will be different from other applications as it would not only 
 have the option for money contribution but things which mostly go wasted , basic necessities which are in overabundance to some and scarce to others .
-People who can contribute ,people  who know about someone who wants to contribute ,people who know about someone in utmost need and people who want
-to volunteer can all connect together.
+
 
 ### Features
 
