@@ -247,17 +247,17 @@ Design an application through which students and parents can hire a tutor.
 - Weekly challenges  
     
     
-## Idea-13
+## Idea-13
 
-### Name
+### Name
 
 Diksha Patro B
 
-### Description 
+### Description 
 
 A networking platform for workout enthusiasts to find the right workout-partner based on preferences and levels.
 
-### Features
+### Features
 
  - Profile of the user along with preferences whether they are into dance/yoga/pilates and level, they need not reveal their real names and can just use sudo-names as in game platforms.
  - Users can find workout partners around the world and them as friends or just follow them.
@@ -266,5 +266,31 @@ A networking platform for workout enthusiasts to find the right workou
  - A discussion forum for various workout-type communities.
  - Individual chat feature for partners to discuss their daily workout regime.
  - A milestone tracker for every individual to showcase achievements and upgrading to different levels.
+
+
+## Idea-14
+
+### Name
+
+Rayman Kour Sodhi
+
+### Description 
+
+This is an idea for application "Share if You Care".Most of the times it is not the lack of available  resources  for the needy  
+but the lack of right planning and medium to make it reach to the needy people .This application can help connect people who can join
+ hands to organise collection drives for  old clothes,blankets ,books ,extra food etc.This will be different from other applications as it would not only 
+have the option for money contribution but things which mostly go wasted , basic necessities which are in overabundance to some and scarce to others .
+
+
+### Features
+
+ - Login/Signup Page - For all the volunteers.
+ - Works according to the categories people want to donate/contribute.
+ - Prompt for Location access so that people in same locality can join hands together for the cause
+ - Option to Post about any available resource and chat feature for people to communicate
+ - Notification Alert whenever any requiremnet or resource is needed ,so that people who can help can be notified and come forward.
+ - Collaboration feature  for reaching out to more people who want to Raise funds and Sponsor for the drives.
+ 
+
 
 
