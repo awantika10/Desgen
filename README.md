@@ -14,7 +14,8 @@ Here we provide a platform to learn and build innovative solutions for such prob
 
 
 ## Tech Stack
-- **Frontend:** HTML/CSS/Figma/AdobeXD/Illustrator/Framer/Anima
+- **Frontend:**  
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img alt="" src="https://img.shields.io/badge/Framer%20-%23black.svg?&style=for-the-badge&logo=Framer&logoColor=black" alt="Framer"/> <img alt="" src="https://img.shields.io/badge/anima%20-%23black.svg?&style=for-the-badge&logo=anima&logoColor=white" alt="anima"/>
 
 ## Open Source Contests
  
