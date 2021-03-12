@@ -228,6 +228,22 @@ This is an Idea for Application Named "EasyJobs". If anyone wants a homemaker or
  - Customer suppport tab
     
     
-    
+## Idea-12
+  
+### Name
+Shreya Jindal
+
+### Description
+
+Design an application through which students and parents can hire a tutor.
+
+### Features
+
+- Find a tutor according to your requirements like fees, subjects, etc.
+- Have in-app doubt support.
+- Demo video from each teacher and chat facility with them.
+- Rating and reviews for each teacher.
+- Child's progress updated by the tutor.
+- Weekly challenges  
     
     
