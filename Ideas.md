@@ -291,6 +291,30 @@ have the option for money contribution but things which mostly go wasted , basic
  - Notification Alert whenever any requiremnet or resource is needed ,so that people who can help can be notified and come forward.
  - Collaboration feature  for reaching out to more people who want to Raise funds and Sponsor for the drives.
  
+## Idea-15
+
+### Name
+
+Vaishnavi Gupta
+
+### Description 
+
+This is an idea for making a community which helps through the party hassles and troubles.This app will allow users to have a calendar which will allow them to set their dates.It will also provide the details of the nearest banquets and shops which are required for shopping as well as gifts.It will ask the user to create a todo list so that all the work done can be checked.It will have a invite feature which will allow users to connect and recieve the invitation on their messenger for the party.It will have a group system where the close members can access the invitation and todolist while the others invited for the party can not do the same.
+
+
+### Features
+
+ - Loading page.
+ - Create a registration page.
+ - Login page
+ - Profile of a user containing buttons of adding friends and have calendar and todo feature
+ - Home page which includes the all the features with the feed which suggests banquets and invitations.
+ - todo list page where all the things that need to be done are written
+ - calendar page to set the date of the function and shopping
+ - Messenger page for party comers to chat
+ - map for the location of all the party comers
+ - Explore corner to explore invitations,banquets and people
+ - posting page where users can share their ideas and what they are comfortable with
 
 
 
