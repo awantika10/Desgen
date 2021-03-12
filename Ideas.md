@@ -247,3 +247,24 @@ Design an application through which students and parents can hire a tutor.
 - Weekly challenges  
     
     
+## Idea-13
+
+### Name
+
+Diksha Patro B
+
+### Description 
+
+A networking platform for workout enthusiasts to find the right workout-partner based on preferences and levels.
+
+### Features
+
+ - Profile of the user along with preferences whether they are into dance/yoga/pilates and level, they need not reveal their real names and can just use sudo-names as in game platforms.
+ - Users can find workout partners around the world and them as friends or just follow them.
+ - Customizable workout calendar template every month.
+ - Integration of spotify api or any other music platform to create a customised workout playlist which could collaborative type.
+ - A discussion forum for various workout-type communities.
+ - Individual chat feature for partners to discuss their daily workout regime.
+ - A milestone tracker for every individual to showcase achievements and upgrading to different levels.
+
+
