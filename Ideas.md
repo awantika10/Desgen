@@ -316,23 +316,21 @@ This is an idea for making a community which helps through the party hassles and
  - Explore corner to explore invitations,banquets and people
  - posting page where users can share their ideas and what they are comfortable with
 
-## idea-18
+## Idea-18
 
 ## Name
 
 Jyotsana Sampatharao
 
-### Description
+## Description
+This is an Idea for Application Named "HAVE A GOOD FOOD!! MAKE YOUR STOMACH & YOURSELF HAPPY!!” This app will allow every one of us to get aware with restaurants nearby. This app will be similar to the movie tickets booking app. This will have the list of restaurants nearby; their ratings, reviews and menu card last but most importantly Vacancy. Anyone can book a table and order food in that restaurant with this app.
 
-This is an Idea for Application Named "HAVE A GOOD FOOD!! MAKE YOUR STOMACH & YOURSELF HAPPY!!".
-This app will allow everyone of us to get aware with resturants nearby. This app will be similar to the movie tickets booking app. This will have the list of resturants nearby, their ratings, reviews and menu card last but most importantly Vacany. Anyone can book a table and order food in that resturant with this app.  
- 
-### Features
-1. Login/Signup Page 
-2. List of resturants nearby 
-3. Display distance from your location, menu, vacancy, ratings, reviews.
-4. Book a table and order food. 
-5. Show the time in which your food will be available at your table.
+## Features
+1.	Login/Signup Page
+2.	List of restaurants nearby
+3.	Display distance from your location, menu, vacancy, ratings, reviews.
+4.	Book a table and order food.
+5.	Show the time in which your food will be available at your table.
 
 
 
