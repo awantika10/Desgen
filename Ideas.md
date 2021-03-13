@@ -316,5 +316,23 @@ This is an idea for making a community which helps through the party hassles and
  - Explore corner to explore invitations,banquets and people
  - posting page where users can share their ideas and what they are comfortable with
 
+ ## Idea -16
+ 
+ ### Name
+ 
+ Madhuri Ramakrishnan
+ 
+ ### Description
+ 
+ Local.ly aims to uplift and support local communities by connecting consumers to local businesses more simply. Consumers are able to view business profiles by searching them and clicking the top right arrow. They will be redirected to another page with subpages titled products, updates, and stories, all of which contain information to help consumers view information such as product listings, events, and updates that are within driving distance and can be purchased through the website. Users can engage with these local businesses - by liking, sharing, and viewing their content - and can put products from a business on hold/deposit before buying. Business owners are able to view their analytics to grasp an overview of their overall engagement and sales which can be used to further develop their business.
+
+ ### Features
+
+  - Home Page
+  - Login / Signup Page
+  - Explore Page (where user can explore various business owned by local)
+  - Each SubPage for each product
+  - Register Page (where entrepreneurs can register their business)
+  - Analytics ( A Page where entrepreneurs can view their business engagement)
 
 
