@@ -316,7 +316,7 @@ This is an idea for making a community which helps through the party hassles and
  - Explore corner to explore invitations,banquets and people
  - posting page where users can share their ideas and what they are comfortable with
 
-## Idea-18
+## Idea-16
 
 ## Name
 
@@ -331,6 +331,8 @@ This is an Idea for Application Named "HAVE A GOOD FOOD!! MAKE YOUR STOMACH & YO
 3.	Display distance from your location, menu, vacancy, ratings, reviews.
 4.	Book a table and order food.
 5.	Show the time in which your food will be available at your table.
+
+
 
 
 
