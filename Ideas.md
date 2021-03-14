@@ -316,5 +316,13 @@ This is an idea for making a community which helps through the party hassles and
  - Explore corner to explore invitations,banquets and people
  - posting page where users can share their ideas and what they are comfortable with
 
+## Idea-15
+### Name
+Rahul Kumar
+### Description 
+Just doing practice of how git/github works for opensource....chill
+
+### Features
+
 
 
