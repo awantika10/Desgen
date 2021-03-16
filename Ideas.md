@@ -332,7 +332,24 @@ This is an Idea for Application Named **Foodie** "HAVE A GOOD FOOD!! MAKE YOUR S
 4.	Book a table and order food.
 5.	Show the time in which your food will be available at your table.
 
+## idea-17
 
+## Name
+
+Shweta Ranjan Anand 
+
+### Description .
+
+This app aims to not only give awareness about mental health but also promote healthy ways to deal with these kind of isssues. 1 daily motivational quote on homepage for positive vibes. A chatbot in it as well which asks a person how they feel about their day at the end of the day. Best food to eat for healty mind eachday. A section for best habits to do in a day eg. sitting in Sun in winters, drinking water, etc and ticking off the checkboxes. Giving a person options if they think they are an overthinker, giving them a reminder to write daily about how they feel. An achievement section to celebrate little achievements. 
+ 
+### Features
+1. Login/ signup page. 
+2. Cool and calm music going in the bg of app. 
+3. Chatbot
+4. Best food recommendations each day 
+5. A section for best habits to do in a day
+6. Achievement section
+7. Blogs about mental health 
 
 
 
