@@ -1,5 +1,5 @@
 # Desgen
-We are trying to develop innovative designs through lastest UI/UX technologies. Most of the open source organisation and platforms have Web development, Android Development, ML etc, but ever wonder any organization or project which is completely dedicated to solving real world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
+We are trying to develop innovative designs through latest UI/UX technologies. Most of the open source organisation and platforms have Web development, Android Development, ML etc, but ever wonder any organization or project which is completely dedicated to solving real world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
 
 Here we provide a platform to learn and build innovative solutions for such problem. We love to brainstorm and come up with different techniques and approaches to design problems which we face in our day-to-day basis.
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
