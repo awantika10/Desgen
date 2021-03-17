@@ -352,4 +352,25 @@ This app aims to not only give awareness about mental health but also promote he
 7. Blogs about mental health 
 
 
+## idea-18
+
+## Name
+
+Anushka Rajvanshi
+
+### Description .
+
+An app that can help people find pets that are up for adoption. People can search using different filters like listing out the only options available in their locality or at any particular location or animals of a certain age or breed. You can also upload the details of stray dogs, cats or any other needy animal that you have found or rescued for adoption. This app will make it easier for them to find their forever home and will also help to make a room for another needy animal. It can be named "PetFinds' or 'FindYourPet'.
+ 
+### Features
+1. Login/Signup page. 
+2. Explore page that will show all the available post for adoption. 
+3. Location, breed and age filter in search
+4. Chat option for communication between adopter and current owner.
+5. Option to add a new adoption post in which we can upload details of the pet and a compulsory image upload option in it.
+6. Option to delete the post from the available adoption posts in which we have to give reason - either 'adopted' or 'other reason'.
+7. It will display total number of adopted pets through this app and update automatically when a pet is marked adopted while taking down the list.
+8. Additionaly it can also has a section of successful adoption stories and other informative articles about adoption culture.
+
+
 
