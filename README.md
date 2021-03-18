@@ -1,7 +1,7 @@
 # Desgen
-We are trying to develop innovative designs through latest UI/UX technologies. Most of the open source organisation and platforms have Web development, Android Development, ML etc, but ever wonder any organization or project which is completely dedicated to solving real world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
+We are trying to develop innovative designs through the latest UI/UX technologies. Most of the open-source organization and platforms have Web development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
 
-Here we provide a platform to learn and build innovative solutions for such problem. We love to brainstorm and come up with different techniques and approaches to design problems which we face in our day-to-day basis.
+Here we provide a platform to learn and build innovative solutions for such problems. We love to brainstorm and come up with different techniques and approaches to design problems that we face on our day-to-day basis.
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
@@ -22,7 +22,7 @@ Here we provide a platform to learn and build innovative solutions for such prob
 - ### GirlScript Summer of Code 2021 
 
 About
-GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. 
+GirlScript Summer of Code is the 3 month-long Open Source program during summers conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity.
 > **NOTE:** All the contributions to be counted under GSSOC should be made to the `gssoc` branch. 
 > Please commit the designs and make a PR for each design.
 <div >
