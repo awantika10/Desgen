@@ -125,6 +125,8 @@ Add the description about the idea and add the features for the idea or how to i
 - reminder to Gmail.
 - Blogs about how to move ahead with cp.
 - practice questions all diffrent cp topics.
+- Interview questions regarding top tech companies
+- collabarations page
 
 
 ## idea-7
