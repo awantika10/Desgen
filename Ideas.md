@@ -374,5 +374,16 @@ An app that can help people find pets that are up for adoption. People can searc
 7. It will display total number of adopted pets through this app and update automatically when a pet is marked adopted while taking down the list.
 8. Additionaly it can also has a section of successful adoption stories and other informative articles about adoption culture.
 
+## Idea-18
+## Name : Bharat Ummadi
+### Description :
+The aim is to make an app that people could use in periods of depression, sorrow, or affliction, or simply to better increase mood and emotionally prepare for sleep.After a long and exhausting day, one can use this app, that helps the individual to easily quiet their mind and tune in emotionally for a healthier sleep.
+### User Pain ponts :
+- Trouble sleeping - When you have trouble falling asleep or waking up many times during the night, this is a fairly normal phenomenon.
+- Negative Emotions - Rage, fear, and sadness will all affect how easily we fall asleep. Sleep deficiency may be to blame for poor thoughts and even mental disorders.
 
-
+### Features of the application :
+- The users can track the amount of time they have spent sleeping and meditating using the application.
+- The application has wide range of music tracks which the user can listen to according to their mood.
+- The app suggests music based on the users choice. Some of the options include Fighting Insomnia, Reduce stress, reduce anxiety, increase happiness etc.
+- The colors and the background images used in the application reflects calmness. The negative emotions we accumulate during the day are processed in our brain during sleep and hence the application will be designed in such a way that the user doesn't experience them again.
