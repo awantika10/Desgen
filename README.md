@@ -1,14 +1,23 @@
 # Desgen
-We are trying to develop innovative designs through the latest UI/UX technologies. Most of the open-source organization and platforms have Web development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
-
-Here we provide a platform to learn and build innovative solutions for such problems. We love to brainstorm and come up with different techniques and approaches to design problems that we face on our day-to-day basis.
+Desgen is an open source project dedicated to develop innovative designs through the latest UX/UI technologies to sketch your ideas onto the latest devices and platforms.
+Most of the open-source organization and platforms have Web development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
+In Desgen we have a mission to bring meaningful changes in people's lives, we thrive every day to enable simpler solutions to the most complicated challenges. <br>
+# We Believe:-
+* Everyone is creative.
+* Innovation starts with people.
+* Technology moves fast, human needs change slowly.
+* Creative organizations are more agile.
+.<br>
+# Our Approach
+* We find out which designs work best by studying real users around the world as they interact with actual websites and applications.
+* We believe it is more important to rely on what users actually do, rather than what they say they do.<br>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nhRVW5GXFV)&nbsp;
 
-> **You can view the demo [here](https://dribbble.com/Desgen).**
+> **You can view the website  [here](https://dribbble.com/Desgen).**
 
 ![Desgngit](https://user-images.githubusercontent.com/71998138/105863985-777b0f80-6017-11eb-9068-6f5c205ef550.PNG)
 
