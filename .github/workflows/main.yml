@@ -1,0 +1,12 @@
+name: Bulk Issue Labeler
+
+on: issues
+
+jobs:
+  labelIssue:
+    name: Bulk Issue Labeler
+    runs-on: ubuntu-latest
+    steps:
+      - uses: adamzolyak/issue-labeler-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
