@@ -1,0 +1,25 @@
+name: Acquire activation file
+on: 
+  workflow_dispatch:
+    inputs:
+      newUnityVersion:
+        description: 'The new version number string to generate the license activation file for.'
+        required: true
+        
+jobs:
+  activation:
+    name: Request manual activation file 🔑
+    runs-on: ubuntu-latest
+    steps:
+      # Request manual activation file
+      - name: Request manual activation file
+        id: getManualLicenseFile
+        uses: webbertakken/unity-request-manual-activation-file@v1.1
+        with:
+          unityVersion: ${{ github.event.inputs.newUnityVersion }}
+      # Upload artifact (Unity_v20XX.X.XXXX.alf)
+      - name: Expose as artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: Unity license activation file for ${{ github.event.inputs.newUnityVersion }}
+          path: ${{ steps.getManualLicenseFile.outputs.filePath }}
