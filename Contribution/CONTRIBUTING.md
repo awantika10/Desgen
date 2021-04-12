@@ -52,6 +52,13 @@ Files : Designs/your_design_idea/your_design_idea.html
         Designs/your_design_idea/your_design_idea.png or Designs/your_design_idea/your_design_idea.jpg
         
 ```
+### Website Design submission
+
+Go to Designs/Website folder. In that folder, add a new folder and then add the photos of your designs in that folder. Also add a html file in it
+**(the html file should follow the template - [TEMPLATE](https://github.com/awantika10/Desgen/blob/gssoc/Designs/DesignTemplate_IdeaName.html))**.
+
+Fill all the details in the html file and add the figma link of your design in it.
+
 
 ### Code submission
 All the information would be given in the issue 
