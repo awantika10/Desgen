@@ -1,6 +1,6 @@
 # Desgen
 Desgen is an open source project dedicated to develop innovative designs through the latest UX/UI technologies to sketch your ideas onto the latest devices and platforms.
-Most of the open-source organization and platforms have Web development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
+Most of the open-source organization and platforms have Web Development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
 In Desgen we have a mission to bring meaningful changes in people's lives, we thrive every day to enable simpler solutions to the most complicated challenges. <br>
 # We Believe:-
 * Everyone is creative.
@@ -30,7 +30,7 @@ In Desgen we have a mission to bring meaningful changes in people's lives, we th
  
 - ### GirlScript Summer of Code 2021 
 
-About
+About:<br>
 GirlScript Summer of Code is the 3 month-long Open Source program during summers conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity.
 > **NOTE:** All the contributions to be counted under GSSOC should be made to the `gssoc` branch. 
 > Please commit the designs and make a PR for each design.
@@ -50,7 +50,7 @@ GirlScript Summer of Code is the 3 month-long Open Source program during summers
 
 ## Contributing guidelines  
 
-  * Go through [contributing.md](https://github.com/awantika10/Desgen/blob/gssoc/Contribution/CONTRIBUTING.md) file thoroughly
+  * Go through [contributing.md](https://github.com/awantika10/Desgen/blob/gssoc/Contribution/CONTRIBUTING.md) file thoroughly.
 
 ## 🌟 Contributors 
 
