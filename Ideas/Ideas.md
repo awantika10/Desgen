@@ -125,6 +125,8 @@ Add the description about the idea and add the features for the idea or how to i
 - reminder to Gmail.
 - Blogs about how to move ahead with cp.
 - practice questions all diffrent cp topics.
+- Interview questions regarding top tech companies
+- collabarations page
 
 
 ## idea-7
@@ -291,6 +293,86 @@ have the option for money contribution but things which mostly go wasted , basic
  - Notification Alert whenever any requiremnet or resource is needed ,so that people who can help can be notified and come forward.
  - Collaboration feature  for reaching out to more people who want to Raise funds and Sponsor for the drives.
  
+## Idea-15
+
+### Name
+
+Vaishnavi Gupta
+
+### Description 
+
+This is an idea for making a community which helps through the party hassles and troubles.This app will allow users to have a calendar which will allow them to set their dates.It will also provide the details of the nearest banquets and shops which are required for shopping as well as gifts.It will ask the user to create a todo list so that all the work done can be checked.It will have a invite feature which will allow users to connect and recieve the invitation on their messenger for the party.It will have a group system where the close members can access the invitation and todolist while the others invited for the party can not do the same.
+
+
+### Features
+
+ - Loading page.
+ - Create a registration page.
+ - Login page
+ - Profile of a user containing buttons of adding friends and have calendar and todo feature
+ - Home page which includes the all the features with the feed which suggests banquets and invitations.
+ - todo list page where all the things that need to be done are written
+ - calendar page to set the date of the function and shopping
+ - Messenger page for party comers to chat
+ - map for the location of all the party comers
+ - Explore corner to explore invitations,banquets and people
+ - posting page where users can share their ideas and what they are comfortable with
+
+## Idea-16
+
+## Name
+
+Jyotsana Sampatharao
+
+## Description
+This is an Idea for Application Named **Foodie** "HAVE A GOOD FOOD!! MAKE YOUR STOMACH & YOURSELF HAPPY!!” This app will allow every one of us to get aware with restaurants nearby. This app will be similar to the movie tickets booking app. This will have the list of restaurants nearby; their ratings, reviews and menu card last but most importantly Vacancy. Anyone can book a table and order food in that restaurant with this app.
+
+## Features
+1.	Login/Signup Page
+2.	List of restaurants nearby
+3.	Display distance from your location, menu, vacancy, ratings, reviews.
+4.	Book a table and order food.
+5.	Show the time in which your food will be available at your table.
+
+## idea-17
+
+## Name
+
+Shweta Ranjan Anand 
+
+### Description .
+
+This app aims to not only give awareness about mental health but also promote healthy ways to deal with these kind of isssues. 1 daily motivational quote on homepage for positive vibes. A chatbot in it as well which asks a person how they feel about their day at the end of the day. Best food to eat for healty mind eachday. A section for best habits to do in a day eg. sitting in Sun in winters, drinking water, etc and ticking off the checkboxes. Giving a person options if they think they are an overthinker, giving them a reminder to write daily about how they feel. An achievement section to celebrate little achievements. 
+ 
+### Features
+1. Login/ signup page. 
+2. Cool and calm music going in the bg of app. 
+3. Chatbot
+4. Best food recommendations each day 
+5. A section for best habits to do in a day
+6. Achievement section
+7. Blogs about mental health 
+
+
+## idea-18
+
+## Name
+
+Anushka Rajvanshi
+
+### Description .
+
+An app that can help people find pets that are up for adoption. People can search using different filters like listing out the only options available in their locality or at any particular location or animals of a certain age or breed. You can also upload the details of stray dogs, cats or any other needy animal that you have found or rescued for adoption. This app will make it easier for them to find their forever home and will also help to make a room for another needy animal. It can be named "PetFinds' or 'FindYourPet'.
+ 
+### Features
+1. Login/Signup page. 
+2. Explore page that will show all the available post for adoption. 
+3. Location, breed and age filter in search
+4. Chat option for communication between adopter and current owner.
+5. Option to add a new adoption post in which we can upload details of the pet and a compulsory image upload option in it.
+6. Option to delete the post from the available adoption posts in which we have to give reason - either 'adopted' or 'other reason'.
+7. It will display total number of adopted pets through this app and update automatically when a pet is marked adopted while taking down the list.
+8. Additionaly it can also has a section of successful adoption stories and other informative articles about adoption culture.
 
 ## Idea-15
 

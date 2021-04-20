@@ -2,8 +2,8 @@
   
 This documentation contains a set of guidelines to help you during the contribution process.
 
-We are happy to welcome all the contributions from anyone willing to improving this project. Thank you for helping out and remember, **no contribution is too small.** 
-- Join the discord channel for regular updates
+We are happy to welcome all the contributions from anyone willing to improve this project. Thank you for helping out and remember, **no contribution is too small.** 
+- Join the discord channel for regular updates.
 - Each participant/contributor will be assigned **2 issues (max)** at a time to work.
 - Participants are expected to follow project guidelines and coding style.
 - Participants/contributors have to give an update about their work in every **3 days** while completing issues. If not then the issue will be assigned to other.
@@ -19,44 +19,52 @@ We are happy to welcome all the contributions from anyone willing to improving t
 - **MAKE SURE TO OPEN A DRAFT PR AS SOON AS YOU START WORKING ON AN ISSUE AND KEEP COMMITING TO IT SO THAT WE CAN KNOW THAT YOU ARE WORKING ON THAT PARTICULAR ISSUE**
 
 - Pull Requests review criteria:
-  - Please fill the **PR template** properly while making a PR
+  - Please fill the **PR template** properly while making a PR.
   - Example of the **PR template**
   <img src="https://user-images.githubusercontent.com/53532851/110438510-77713380-80dc-11eb-81e2-a0b6ae8b1d5a.png" width="700">
   
   - You must add your designs file into the respective **folders**.
   - Your work must be **original**, designed/written by you not copied from other resources.
   - You must **comment** on your code where necessary.
-  - For **frontend changes** kindly share screenshots and work samples of your work before sending a PR.
+  - For **frontend changes**, kindly share screenshots and work samples of your work before sending a PR.
 
-- For any queries or discussions, please drop a message in our **discord server**
+- For any queries or discussions, please drop a message in our **discord server**.
 
 # Submissions
-`(Use "Fixes #Issue_Number" in a pull request as mentioned in the PR template and please fill the pr details while creating a pull request )`
+`(Use "Fixes #Issue_Number" in a pull request as mentioned in the PR template and please fill the PR details while creating a pull request )`
 
 ### Idea submission
 
 For idea submission  {[issue](https://github.com/awantika10/Desgen/issues/8)} 
-Add the idea in the ideas.md . You have to add a proper description about the idea and features for the idea(like how we can implement the idea). If you have any design/mockup/workflow for the idea you can also add them . The ideas should be unique or innovative. Please read the issue properly and then make a pr.
+Add the idea in the ideas.md . You have to add a proper description about the idea and features for the idea(like how we can implement the idea). If you have any design/mockup/workflow for the idea you can also add them . The ideas should be unique or innovative. Please read the issue properly and then make a PR.
 
 ### Design submission
 
 For design submission : 
-First make a new folder in Designs folder and add a html file in it . The name of the folder and html file should be same as the idea name on which the design is made(try to keep it precise)
+First make a new folder in Designs folder and add a html file in it . The name of the folder and html file should be same as the idea name on which the design is made(try to keep it precise).
 
-**(the html file should follow the template - [TEMPLATE](https://github.com/awantika10/Desgen/blob/gssoc/Designs/DesignTemplate_IdeaName.html))**
+**(The html file should follow the template - [TEMPLATE](https://github.com/awantika10/Desgen/blob/gssoc/Designs/DesignTemplate_IdeaName.html))**
 
-Along with the html file add a photo of the design (.png or .jpg format)
+Along with the html file add a photo of the design (.png or .jpg format).
 
 ```
 Files : Designs/your_design_idea/your_design_idea.html
         Designs/your_design_idea/your_design_idea.png or Designs/your_design_idea/your_design_idea.jpg
         
 ```
+### Website Design submission
+
+Go to Designs/Website folder. In that folder, add a new folder and then add the photos of your designs in that folder. Also add a html file in it
+**(The html file should follow the template - [TEMPLATE](https://github.com/awantika10/Desgen/blob/gssoc/Designs/DesignTemplate_IdeaName.html))**.
+
+Fill all the details in the html file and add the figma link of your design in it.
+
 
 ### Code submission
-All the information would be given in the issue 
+All the information would be given in the issue.
+
 ### Documentation submission
-All the information would be given in the issue 
+All the information would be given in the issue. 
   
 # How to start
 Below you will find the process and workflow used to review and merge your changes.  
@@ -74,7 +82,7 @@ Below you will find the process and workflow used to review and merge your chang
  ![image](https://user-images.githubusercontent.com/53532851/110444025-94106a00-80e2-11eb-8d7b-fd5f7a86f319.png)
 
  
-- After this go to your terminal and clone this project on your desktop( git should be installed before - [link](https://git-scm.com/) )
+- After this go to your terminal and clone this project on your desktop( git should be installed before - [link](https://git-scm.com/) ).
   
 ```  
 $ git clone https://github.com/<your-username>/Desgen 
@@ -93,7 +101,7 @@ Create a new branch. Use its name to identify the issue you are addressing.
 ![image](https://user-images.githubusercontent.com/53532851/110443654-282e0180-80e2-11eb-839f-3b89bd22b7fa.png)
 
 ```  
-# It will create a new branch with name Branch_Name and switch to that branch 
+# It will create a new branch with name Branch_Name and switch to that branch. 
 $ git checkout -b branch_name  
 ```  
 
@@ -116,7 +124,7 @@ $ git add <some files>
 ## Step 4 : Commit  
 - To commit give a descriptive message for the convenience of reviewer by using terminal:  
 ```
-# This message get associated with all files you have changed  
+# This message get associated with all files you have changed. 
 $ git commit -m "message"  
 ```
 - Using GitHub
@@ -132,7 +140,7 @@ $ git commit -m "message"
 <BLANK LINE>
 <footer>
 ```
-Any line of the commit message cannot be longer than 100 characters! This allows the message to be easier to read on GitHub as well as in various git tools
+Any line of the commit message cannot be longer than 100 characters! This allows the message to be easier to read on GitHub as well as in various git tools.
 
 ### Example commit message
 ```
@@ -148,15 +156,15 @@ A good rule of thumb for the commit message is to have a present tense verb, fol
 - [Writing Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
  
 ## Step 5 : Work Remotely  
-- Now you are ready to your work to the remote repository.  
+- Now you are ready to work in the remote repository.  
 - When your work is ready and complies with the project conventions, upload your changes to your fork:  
   
 ```  
-# To push your work to your remote repository  
+# To push your work to your remote repository.  
 $ git push -u origin <branch_name>  
 ```  
 - Here is how your branch will look.  
-- 
+
 ![image](https://user-images.githubusercontent.com/53532851/110444499-1b5ddd80-80e3-11eb-86f4-83e5fcb0482d.png)
 
   

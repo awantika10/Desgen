@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <!--- Delete things that may be irrelevant to your feature request. --->
-<!--- Remove the description of topics like in "**Describtion**" Remove "What is your feature request ? (A description of the...." --->
+<!--- Remove the description of topics like in "**Description**" remove "What is your feature request ? (A description of the...." --->
 
 **What is your feature request related to ?**
 
