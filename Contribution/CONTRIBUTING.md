@@ -49,8 +49,9 @@ Along with the html file add all the photos of the design screens (.png or .jpg 
 
 ```
 Files : Designs/your_design_idea/your_design_idea.html
-        (Designs/your_design_idea/your_design_idea.png or Designs/your_design_idea/your_design_idea.jpg) number depend on the screens
-        
+        Designs/your_design_idea/screen_1.png or Designs/your_design_idea/screen_1.jpg
+        Designs/your_design_idea/screen_2.png or Designs/your_design_idea/screen_2.jpg
+        ...(add all the screens)
 ```
 ### Website Design submission
 
