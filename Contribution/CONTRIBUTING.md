@@ -45,11 +45,11 @@ First make a new folder in Designs folder and add a html file in it . The name o
 
 **(The html file should follow the template - [TEMPLATE](https://github.com/awantika10/Desgen/blob/gssoc/Designs/DesignTemplate_IdeaName.html))**
 
-Along with the html file add a photo of the design (.png or .jpg format).
+Along with the html file add all the photos of the design screens (.png or .jpg format).
 
 ```
 Files : Designs/your_design_idea/your_design_idea.html
-        Designs/your_design_idea/your_design_idea.png or Designs/your_design_idea/your_design_idea.jpg
+        (Designs/your_design_idea/your_design_idea.png or Designs/your_design_idea/your_design_idea.jpg) number depend on the screens
         
 ```
 ### Website Design submission
