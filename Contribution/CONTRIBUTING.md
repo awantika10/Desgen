@@ -53,6 +53,8 @@ Files : Designs/your_design_idea/your_design_idea.html
         Designs/your_design_idea/screen_2.png or Designs/your_design_idea/screen_2.jpg
         ...(add all the screens)
 ```
+For designs having 2 assignees - Divide half-half screens and then both can make a pull request. The HTML file should be added by one assignee. To keep the folder same - first, one assignee has to make a pull request and then, when it gets merged, the second assignee should add the remaining files in the same folder.
+
 ### Website Design submission
 
 Go to Designs/Website folder. In that folder, add a new folder and then add the photos of your designs in that folder. Also add a html file in it
