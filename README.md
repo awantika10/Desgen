@@ -1,5 +1,5 @@
 # Desgen
-Desgen is an open source project dedicated to develop innovative designs through the latest UX/UI technologies to sketch your ideas onto the latest devices and platforms.
+Desgen is an open-source project dedicated to developing innovative designs through the latest UX/UI technologies to sketch your ideas onto the latest devices and platforms.
 Most of the open-source organization and platforms have Web Development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
 In Desgen we have a mission to bring meaningful changes in people's lives, we thrive every day to enable simpler solutions to the most complicated challenges. <br>
 # We Believe:-
