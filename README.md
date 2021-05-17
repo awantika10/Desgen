@@ -14,7 +14,7 @@ In Desgen we have a mission to bring meaningful changes in people's lives, we th
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
+[![Dribbble](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nhRVW5GXFV)&nbsp;
 
 > **You can view the website  [here](https://dribbble.com/Desgen).**
