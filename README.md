@@ -38,6 +38,21 @@ GirlScript Summer of Code is the 3 month-long Open Source program during summers
 <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="gssoc" height="200" />
   </div>
 
+- ### LetsGrowMore Summer of Code 2021
+About:<br>
+LetsGrowMore Summer of Code is the 1 month-long Open Source program during summers conducted by LetsGrowMore Foundation, intending to help beginners get started with Open Source Development while encouraging diversity.
+> **NOTE:** All the contributions to be counted under LGM-SOC should be made to the `LGM-SOC'21` branch. 
+> Please commit the designs and make a PR for each design.
+<table style="width:80%;background-color:white;border-radius:30px;">
+    <tr>
+  <td>
+<center>
+  <a href="https://letsgrowmore.in/projects/"><img src="https://letsgrowmore.in/wp-content/uploads/2021/05/cropped-growmore-removebg-preview.png" width="1000" height="200"></img></a>
+  </center>
+  </td>
+  </tr>
+</table>
+    <hr>
 # Mentors 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/awantika10/Desgen/) 
