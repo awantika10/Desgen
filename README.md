@@ -1,4 +1,22 @@
 # Desgen
+<div align="center"> 
+
+<a href="https://github.com/awantika10/Desgen"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/awantika10/Desgen"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/awantika10/Desgen"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-yellow.svg?v=103"></a>
+<a href="https://github.com/awantika10/Desgen/blob/gssoc/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?v=103"></a>
+<a href="https://discord.com/invite/nhRVW5GXFV"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a> 
+
+<a href="https://github.com/awantika10/Desgen/watchers"><img src="https://img.shields.io/github/watchers/awantika10/Desgen?style=flat"></a> 
+<a href="https://github.com/awantika10/Desgen/graphs/contributors"><img src="https://img.shields.io/github/contributors/awantika10/Desgen?color=brightgreen"></a>
+<a href="https://github.com/awantika10/Desgen/stargazers"><img src="https://img.shields.io/github/stars/awantika10/Desgen?color=0059b3"></a>
+<a href="https://github.com/awantika10/Desgen/network/members"><img src="https://img.shields.io/github/forks/awantika10/Desgen?color=yellow"></a>
+<a href="https://github.com/awantika10/Desgen/issues"><img src="https://img.shields.io/github/issues/awantika10/Desgen?color=0059b3"></a>
+<a href="https://github.com/awantika10/Desgen/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/awantika10/Desgen?color=yellow"></a>
+<a href="https://github.com/awantika10/Desgen/pulls"><img src="https://img.shields.io/github/issues-pr/awantika10/Desgen?color=brightgreen"></a>
+<a href="https://github.com/awantika10/Desgen/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/awantika10/Desgen?color=0059b3"></a> 
+</div>
+
 Desgen is an open-source project dedicated to developing innovative designs through the latest UX/UI technologies to sketch your ideas onto the latest devices and platforms.
 Most of the open-source organization and platforms have Web Development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
 In Desgen we have a mission to bring meaningful changes in people's lives, we thrive every day to enable simpler solutions to the most complicated challenges. <br>
@@ -11,11 +29,6 @@ In Desgen we have a mission to bring meaningful changes in people's lives, we th
 # Our Approach
 * We find out which designs work best by studying real users around the world as they interact with actual websites and applications.
 * We believe it is more important to rely on what users actually do, rather than what they say they do.<br>
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
-[![Dribbble](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nhRVW5GXFV)&nbsp;
 
 > **You can view the website  [here](https://dribbble.com/Desgen).**
 
