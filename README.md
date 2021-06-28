@@ -53,7 +53,8 @@ LetsGrowMore Summer of Code is the 1 month-long Open Source program during summe
   </tr>
 </table>
     <hr>
-# Mentors 
+    
+## Mentors
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/awantika10/Desgen/) 
 | GitHub Usernames                                      | Domain                     |
@@ -61,7 +62,7 @@ LetsGrowMore Summer of Code is the 1 month-long Open Source program during summe
 | [@weebo-ary](https://github.com/weebo-ary)            | Design + Documentation     |
 | [@awantika10](https://github.com/awantika10/)         | Design                     |
 | [@SHITIZ-AGGARWAL](https://github.com/SHITIZ-AGGARWAL)| Design + Website           |
-| [@Shaurya Bhandari](https://github.com/ShauryaBhandari)| Website                    |
+
 
 ## Contributing guidelines  
 
