@@ -74,7 +74,6 @@ LetsGrowMore Summer of Code is the 1 month-long Open Source program during summe
 | ----------------------------------------------------- | -------------------------- |
 | [@weebo-ary](https://github.com/weebo-ary)            | Design + Documentation     |
 | [@awantika10](https://github.com/awantika10/)         | Design                     |
-| [@SHITIZ-AGGARWAL](https://github.com/SHITIZ-AGGARWAL)| Design + Website           |
 
 
 ## Contributing guidelines  
